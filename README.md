@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hellovviia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellovviia@gmail.com)](mailto:hellovviia@gmail.com)
 
 ## Hi 👋, 
-I'm Octavia, I'm a physics student 👨‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed data designer (at campus) and internet surfer (anywhere)
+I'm Octavia, I'm a physics student 👨‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Web Apps
@@ -21,7 +21,7 @@ I'm Octavia, I'm a physics student 👨‍💻 who is passionate about web techn
 -  ⚡ Languages: Go, Ruby, Python3
 
 
-> El Psy Kongroo
+> 精神を保つ
 
 
 
