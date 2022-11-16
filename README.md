@@ -13,7 +13,7 @@
 I'm Octavia, I'm a physics student 👨‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Web Apps
+- 🔭 I’m currently working on Web Apps but currently learn mobile app
 - 🌱 I’m currently learning Go and Ruby
 - 💬 Ask me about: tech, memes, kpop
 - 😄 Pronouns: she/her
