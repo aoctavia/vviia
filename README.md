@@ -17,7 +17,7 @@ I'm Octavia, I'm a physics student 👨‍💻 who is passionate about web techn
 - 🌱 I’m currently learning Go and Ruby
 - 💬 Ask me about: tech, memes, kpop
 - 😄 Pronouns: she/her
--  ⚡ Languages: Go, Ruby, Python3
+-  ⚡ Languages: Go, Python
 
 
 > 精神を保つ
@@ -42,5 +42,4 @@ Here are some ideas to get you started:
 -----
 Credits: [Octavia](https://github.com/vviia)
 
-Last Edited on: 11/10/2022
- -->
+Last Edited on: 11/11/2022
