@@ -4,12 +4,8 @@
 	</a>
 </p> -->
 
-## Aulia Octaviani
-[![Twitter Badge](https://img.shields.io/badge/-@vviiac-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vviiac)](https://twitter.com/octaviaavn) [![Medium Badge](https://img.shields.io/badge/-@vviia-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=[https://medium.com/@vviia](https://medium.com/@vviia))](https://medium.com/@vviia)
-[![Gmail Badge](https://img.shields.io/badge/-hellovviia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellovviia@gmail.com)](mailto:hellovviia@gmail.com)
-
 ## Hi 👋, 
-I'm Octavia, I'm a physics student 👨‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
+I'm Aulia Octavia(ni), I'm a physics student 👨‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Web Apps 
