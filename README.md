@@ -1,12 +1,11 @@
-<p align="center">
+<!-- <p align="center">
 	/*<a href="https://github.com/fleetimee/fleetimee">
 		<img src="https://raw.githubusercontent.com/vviia/vviia/main/github-metrics.svg">
 	</a>
-</p>
+</p> -->
 
-<!-- 
 ## Aulia Octavia  
-[![Twitter Badge](https://img.shields.io/badge/-@octaviaavn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/octaviaavn)](https://twitter.com/octaviaavn) [![Medium Badge](https://img.shields.io/badge/-@vviia-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=[https://medium.com/@vviia](https://medium.com/@vviia))](https://medium.com/@vviia)
+[![Twitter Badge](https://img.shields.io/badge/-@vviiac-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vviiac)](https://twitter.com/octaviaavn) [![Medium Badge](https://img.shields.io/badge/-@vviia-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=[https://medium.com/@vviia](https://medium.com/@vviia))](https://medium.com/@vviia)
 [![Gmail Badge](https://img.shields.io/badge/-hellovviia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellovviia@gmail.com)](mailto:hellovviia@gmail.com)
 
 ## Hi 👋, 
@@ -14,10 +13,10 @@ I'm Octavia, I'm a physics student 👨‍💻 who is passionate about web techn
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Web Apps 
-- 🌱 I’m currently learning Dart and Ruby
+- 🌱 I’m currently learning Flutter and Ruby
 - 💬 Ask me about: tech, memes, kpop
 - 😄 Pronouns: she/her
--  ⚡ Languages: Go, Python
+-  ⚡ language I've used: Python (for collenge), Go (my portofolio), Ruby (Internship work), and Dart (currently)
 
 
 > 精神を保つ
@@ -43,4 +42,3 @@ Here are some ideas to get you started:
 Credits: [Octavia](https://github.com/vviia)
 
 Last Edited on: 11/11/2022
- -->
