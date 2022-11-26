@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
 	/*<a href="https://github.com/fleetimee/fleetimee">
 		<img src="https://raw.githubusercontent.com/vviia/vviia/main/github-metrics.svg">
 	</a>
-</p>
-<!-- 
+</p> -->
+
 ## Hi 👋, 
 I'm Aulia Octavia(ni), I'm a physics student 👨‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
 🏄‍♂️. 
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 Credits: [Octavia](https://github.com/vviia)
 
 Last Edited on: 11/11/2022
- -->
+ 
