@@ -12,7 +12,7 @@ I'm Aulia Octavia(ni), I'm a physics student 👨‍💻 who is passionate about
 - 🌱 I’m currently learning Flutter and Ruby
 - 💬 Ask me about: tech, memes, kpop
 - 😄 Pronouns: she/her
--  ⚡ language I've used: Python (for collenge), Go (my portofolio), Ruby (Internship work), and Dart (currently). Fell free to contact me on hellovviia@gmail.com
+-  ⚡ language I've used: Python (for collenge), Go (my portofolio), Ruby (Internship work), and Dart (currently). Feel free to contact me on hellovviia@gmail.com
 
 
 > 精神を保つ
