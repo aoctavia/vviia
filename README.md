@@ -15,7 +15,9 @@ I'm Aulia Octavia(ni), I'm a physics student 👨‍💻 who is passionate about
 -  ⚡ language I've used: Python (for collenge), Go (my portofolio), Ruby (Internship work), and Dart (currently). 
 -  
 
-Feel free to contact me on hellovviia@gmail.com or t.me/vviiac
+Feel free to contact me on
+
+gmail : hellovviia@gmail.com or telegram : t.me/vviiac
 
 
 > 精神を保つ
