@@ -17,7 +17,7 @@ I'm Aulia Octavia(ni), I'm a physics student 👨‍💻 who is passionate about
 
 Feel free to contact me on
 
-gmail : hellovviia@gmail.com or telegram : t.me/vviiac
+gmail : hellovviia@gmail.com or telegram : [t.me/vviiac](https://t.me/vviiac)
 
 
 > 精神を保つ
