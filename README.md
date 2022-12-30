@@ -8,7 +8,7 @@
 I'm Aulia Octavia(ni), I'm a physics student 👨‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Web Apps 
+- 🔭 I’m currently working on Mobile Apps 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about: tech, memes, kpop
 - 😄 Pronouns: she/her
