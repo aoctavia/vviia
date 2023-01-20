@@ -17,7 +17,7 @@ I'm Aulia Octavia, I'm a final year student ( medical physics computation at UNS
 
 Feel free to contact me on
 
-gmail : hellovviia@gmail.com | telegram : [t.me/vviiac](https://t.me/vviiac) | instagram : [octavvia___](https://instagram.com/octavvia___) | twitter : [78vip](https://twitter.com/78vip)
+gmail : hellovviia@gmail.com | telegram : [t.me/vviiac](https://t.me/vviiac) | instagram : [octavvia___](https://instagram.com/octavvia___) 
 
 
 > 精神を保つ
