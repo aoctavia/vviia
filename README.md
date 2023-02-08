@@ -5,7 +5,7 @@
 </p> -->
 
 ## Hi 👋, 
-I'm Aulia Octavia, I'm a final year student ( medical physics computation at UNS) 👩‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
+I'm Aulia Octavia, I'm a fresh graduate Physics UNS 👩‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
 🏄‍♂️. 
 
 - 🌱 I’m currently learning Flutter
