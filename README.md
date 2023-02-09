@@ -11,7 +11,7 @@ I'm Aulia Octavia, I'm a fresh graduate Physics UNS 👩‍💻 who is passionat
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about: tech, memes, kpop
 - 😄 Pronouns: she/her
--  ⚡ language I've used: Python (at collenge),  Ruby (at Internship work), Go (sometimes),and Dart (currently). 
+-  ⚡ language I've used: Python (at collenge),  Ruby (at Internship work), Go (sometimes),and Dart (work). 
 -  
 
 Feel free to contact me on
