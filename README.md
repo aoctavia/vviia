@@ -5,14 +5,11 @@
 </p> -->
 
 ## Hi 👋, 
-I'm Aulia Octavia, I'm a fresh graduate Physics UNS 👩‍💻 who is passionate about web technologies and data sometimes. I'm also a self procliamed internet surfer
-🏄‍♂️. 
+I'm Octavia graduate from Physics UNS 👩‍💻 who is passionate about web and mobile technologies sometimes.
 
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about: tech, memes, kpop
-- 😄 Pronouns: she/her
--  ⚡ language I've used: Python (at collenge),  Ruby (at Internship work), Go (sometimes),and Dart (work). 
--  
+- 💬 Ask me about: tech, memes, drakor
+- ⚡ language I've used: Python (at collenge),  Ruby (at Internship work), Go (sometimes),and Dart (work). 
 
 Feel free to contact me on
 
