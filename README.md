@@ -2,7 +2,7 @@
 	/*<a href="https://github.com/fleetimee/fleetimee">
 		<img src="https://raw.githubusercontent.com/vviia/vviia/main/github-metrics.svg">
 	</a>
-</p> -->
+
 
 ## Hi 👋, 
 I'm Octavia graduate from Physics UNS 👩‍💻 who is passionate about web and mobile technologies sometimes.
@@ -23,3 +23,4 @@ Credits: [Octavia](https://github.com/vviia)
 
 Last Edited on: 11/11/2022
  
+</p> -->
