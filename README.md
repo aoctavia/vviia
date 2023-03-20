@@ -7,7 +7,7 @@
 ## Hi 👋, 
 I'm Octavia graduate from Physics UNS 👩‍💻 who is passionate about web and mobile technologies sometimes.
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working with Flutter and Go
 - 💬 Ask me about: tech, memes, drakor
 - ⚡ language I've used: Python (at collenge),  Ruby (at Internship work), Go (sometimes),and Dart (work). 
 
