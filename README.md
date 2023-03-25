@@ -13,7 +13,7 @@ I'm Octavia graduate from Physics UNS 👩‍💻 who is passionate about web an
 
 Feel free to contact me on
 
-gmail : hellovviia@gmail.com | telegram : [t.me/octaviaaul](https://t.me/octaviaaul) | instagram : [octavvia___](https://instagram.com/octavvia___) 
+gmail : hellovviia@gmail.com | telegram : [t.me/octavviia](https://t.me/octavviia) 
 
 
 > 精神を保つ
