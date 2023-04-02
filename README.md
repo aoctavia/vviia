@@ -16,8 +16,6 @@ Feel free to contact me on
 gmail : hellovviia@gmail.com | telegram : [t.me/octavviia](https://t.me/octavviia) 
 
 
-> 精神を保つ
-
 -----
 Credits: [Octavia](https://github.com/vviia)
 
