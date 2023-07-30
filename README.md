@@ -5,7 +5,7 @@
 </p> -->
 
 ## Hi 👋, 
-I'm Octavia graduate from Physics UNS 👩‍💻 who is passionate about web and mobile technologies sometimes.
+I'm Octavia graduate from Physics UNS 👩‍💻 who is passionate about mobile technologies.
 
 - 🌱 I’m currently working with Flutter
 - 💬 Ask me about: tech, memes, drakor
